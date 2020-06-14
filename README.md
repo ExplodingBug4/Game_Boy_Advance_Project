@@ -3,16 +3,16 @@ This is our own Game Boy Advance game created by Terry Hong, Ryan Tran, and Timo
 using our current knowledge of the C programming language learned in class.
 
 
-Resources Used:
-GamingMonsters 	 —   Youtube Tutorial
-Harry Mulder  	 —   Gameboy Tile Designer
-Harry Mulder  	 —   Gameboy Map Builder
-Michael Hope 	 —   Gameboy Development Kit
-Gingemonster 	 —   GameBoy Png Converter
-bgb.bircd.org 	 —   Gameboy Emulator
+# Resources Used:
+GamingMonsters 	 —   Youtube Tutorial<br />
+Harry Mulder  	 —   Gameboy Tile Designer<br />
+Harry Mulder  	 —   Gameboy Map Builder<br />
+Michael Hope  	 —   Gameboy Development Kit<br />
+Gingemonster 	   —   GameBoy Png Converter<br />
+bgb.bircd.org 	 —   Gameboy Emulator<br />
 
 
-Software Used:
-Visual Studio Code
-GIMP
-Microsoft Paint
+# Software Used:
+Visual Studio Code<br />
+GIMP<br />
+Microsoft Paint<br />
