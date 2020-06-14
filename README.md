@@ -1,6 +1,10 @@
 # Game_Boy_Advance_Project
-This is our own Game Boy Advance game created by Terry Hong, Ryan Tran, and Timothy Yang 
-using our current knowledge of the C programming language learned in class.
+This is our own Game Boy Advance game created with our current knowledge of the C programming language learned in class.
+
+# Contributors
+Terry Hong      —  https://github.com/ExplodingBug4
+Ryan Tran       —  https://github.com/ryan1tran
+Timothy Yang    —  https://github.com/T1mothyyang
 
 
 # Resources Used:
