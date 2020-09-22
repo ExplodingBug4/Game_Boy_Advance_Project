@@ -3,7 +3,7 @@ This is our own Game Boy Advance game created with our current knowledge of the 
 
 # Contributors
 <pre>
-Terry Hong      ——    <a href="https://github.com/ExplodingBug4">https://github.com/ExplodingBug4</a> <br />
+Terry Hong      ——    <a href="https://github.com/terryhong4">https://github.com/terryhong4</a> <br />
 Ryan Tran       ——    <a href="https://github.com/ryan1tran">https://github.com/ryan1tran</a>         <br />
 Timothy Yang    ——    <a href="https://github.com/T1mothyyang">https://github.com/T1mothyyang</a>     <br />
 </pre> 
